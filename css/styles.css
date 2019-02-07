@@ -1,0 +1,64 @@
+.about {
+  font-style: italic;
+}
+.important {
+  color: #0512E4;
+}
+.sidebar {
+  width: auto;
+}
+#topnav >ul {
+  justify-content: space-between;
+  list-style-type: none;
+  display: inline-block;
+}
+li {
+  display: inline-block;
+  justify-content: space-between;
+  padding: 0px 10px 0px 0px;
+  background-color: #3D332F;
+  font-weight: bold;
+  font-size: 30px;
+}
+li >a {
+  text-decoration: none;
+
+}
+
+p {
+  font-size: 25px;
+}
+.line1 {
+  text-align: center;
+  color: #AC0C0C;
+  font-size: 30px;
+}
+.original {
+  float: right;
+  color: #0F6B71;
+  font-size: 40px;
+}
+.test-box {
+  border: 2px solid green;
+  border-right: 4px solid green;
+  border-top: 6px solid yellow;
+  border-bottom: 8px solid grey;
+  padding: 5px;
+}
+.post {
+  text-align: center;
+  text-decoration: underline;
+}
+.vile {
+  text-decoration: underline;
+}
+.pile {
+  text-decoration: underline;
+}
+
+.mile {
+  text-decoration: underline;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/165973/pexels-photo-165973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
